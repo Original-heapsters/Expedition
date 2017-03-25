@@ -12,6 +12,10 @@ def index():
 def workarea1():
     return render_template('workarea1.html')
 
+@app.route('/imageproc')
+def imageproc():
+    return render_template('imageproc.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True);
