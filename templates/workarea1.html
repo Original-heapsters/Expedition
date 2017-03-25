@@ -1,21 +1,29 @@
 {% extends "layout.html" %} {% block body %}
 <div class=main>
-    <h1>Work area 1</h1>
-    {% if args %}
-    {% for arg in args %}
-    <p> {{ arg }} </p>
-    {% endfor %}
+    <h1>Anomaly detection</h1>
+    {% if anomaly is not none %}
+      {{ anomaly }}
+    {% endif %}
+    <h1>Prediction</h1>
+    {% if predict is not none %}
+      {{ predict }}
+    {% endif %}
+    <h1>Trend analysis</h1>
+    {% if trend is not none %}
+      {{ trend }}
     {% endif %}
 </div>
 <div class=aside>
     <h3>Config data</h3>
-    <form method="post" action="{{ url_for('workarea1') }}">
+    <form method="post" action="{{ url_for('workarea1') }}" enctype=multipart/form-data>
         First name:<br>
         <input type="text" name="firstname">
         <br> Last name:<br>
         <input type="text" name="lastname">
         <br><br>
-        <input type="submit" value="Submit">
+        <input type=file name=file>
+        <br>
+        <input type="submit" value="Upload">
     </form>
 </div>
 

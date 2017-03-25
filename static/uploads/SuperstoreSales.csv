@@ -1,0 +1,290 @@
+Month,Sales,Province,Product Category
+STRING,NUMERIC,STRING,STRING
+11/2012,5188.86,Northwest Territories,Office Supplies
+11/2012,268.34,Northwest Territories,Office Supplies
+11/2012,311.44,Northwest Territories,Technology
+11/2012,215.65,Northwest Territories,Furniture
+11/2012,4343.51,Northwest Territories,Technology
+11/2012,6806.66,Northwest Territories,Furniture
+11/2012,891.61,Northwest Territories,Furniture
+11/2012,165.04,Northwest Territories,Technology
+11/2012,2754.93,Northwest Territories,Furniture
+11/2012,19417.55,Northwest Territories,Office Supplies
+11/2012,483.96,Northwest Territories,Office Supplies
+11/2012,308.363,Northwest Territories,Technology
+11/2012,1911.4035,Northwest Territories,Technology
+11/2012,4263.9315,Northwest Territories,Technology
+11/2012,1882.12,Northwest Territories,Office Supplies
+11/2012,186.94,Prince Edward Island,Office Supplies
+11/2012,407.2,Prince Edward Island,Office Supplies
+11/2012,222.91,Prince Edward Island,Technology
+11/2012,9750.55,Prince Edward Island,Furniture
+11/2012,2039.082,Manitoba,Technology
+11/2012,225.46,Manitoba,Technology
+11/2012,783.96,Manitoba,Office Supplies
+11/2012,1538.8655,British Columbia,Technology
+11/2012,187.16,British Columbia,Office Supplies
+11/2012,6276.83,British Columbia,Furniture
+11/2012,323.53,British Columbia,Furniture
+11/2012,65.7475,British Columbia,Technology
+11/2012,4901.99,British Columbia,Office Supplies
+11/2012,36.75,British Columbia,Office Supplies
+11/2012,1115.2,British Columbia,Technology
+11/2012,43.97,British Columbia,Office Supplies
+11/2012,22.78,Nova Scotia,Office Supplies
+11/2012,813.535,Nova Scotia,Technology
+11/2012,3701.5205,Manitoba,Technology
+11/2012,257.97,Ontario,Office Supplies
+11/2012,192.33,Ontario,Office Supplies
+11/2012,463,Ontario,Office Supplies
+11/2012,32.72,Ontario,Office Supplies
+11/2012,1278.6465,Ontario,Technology
+11/2012,13921.6,Ontario,Office Supplies
+11/2012,467.5,Ontario,Office Supplies
+11/2012,378.08,Ontario,Technology
+11/2012,731.71,Ontario,Technology
+11/2012,1704.58,Ontario,Office Supplies
+11/2012,112.05,Ontario,Office Supplies
+11/2012,2654.16,Newfoundland,Technology
+11/2012,1722.65,Newfoundland,Furniture
+11/2012,130.25,Newfoundland,Office Supplies
+11/2012,934.87,Newfoundland,Office Supplies
+11/2012,36.23,Nova Scotia,Technology
+11/2012,122.41,Nova Scotia,Furniture
+11/2012,2185.61,Nova Scotia,Furniture
+11/2012,2130.82,Nova Scotia,Office Supplies
+11/2012,628.22,Quebec,Furniture
+11/2012,3366.1,Quebec,Furniture
+11/2012,926.85,Quebec,Office Supplies
+11/2012,2052.2655,Quebec,Technology
+11/2012,43.9,Quebec,Furniture
+11/2012,236.28,Quebec,Furniture
+11/2012,1769.74,Quebec,Technology
+11/2012,638.07,Quebec,Office Supplies
+11/2012,621.21,Quebec,Office Supplies
+11/2012,3191.24,Ontario,Office Supplies
+11/2012,1502.47,Ontario,Office Supplies
+11/2012,2014.13,Ontario,Office Supplies
+11/2012,225.09,Ontario,Office Supplies
+11/2012,773.74,Ontario,Office Supplies
+11/2012,302.1325,Ontario,Technology
+11/2012,1857.88,Ontario,Technology
+11/2012,2160.83,Ontario,Office Supplies
+11/2012,43.94,Ontario,Furniture
+11/2012,21921.28,New Brunswick,Technology
+11/2012,2728.42,New Brunswick,Office Supplies
+11/2012,6.77,New Brunswick,Office Supplies
+11/2012,487.7,New Brunswick,Office Supplies
+11/2012,34.27,Manitoba,Office Supplies
+11/2012,212.12,Manitoba,Office Supplies
+11/2012,122.05,Manitoba,Office Supplies
+11/2012,2469.15,Manitoba,Office Supplies
+11/2012,70.63,Manitoba,Office Supplies
+11/2012,2601.7905,Manitoba,Technology
+11/2012,3227.38,Manitoba,Furniture
+11/2012,134.52,Manitoba,Office Supplies
+11/2012,192.21,Manitoba,Furniture
+11/2012,23300.12,Manitoba,Technology
+11/2012,87.91,Manitoba,Office Supplies
+11/2012,340.952,Saskachewan,Technology
+11/2012,677.43,Saskachewan,Furniture
+11/2012,137.38,Saskachewan,Technology
+11/2012,82.09,Saskachewan,Office Supplies
+11/2012,452.39,Saskachewan,Office Supplies
+11/2012,117.13,Saskachewan,Technology
+11/2012,42.66,Saskachewan,Office Supplies
+11/2012,655.58,Saskachewan,Office Supplies
+11/2012,1465.33,Saskachewan,Furniture
+11/2012,89.71,Saskachewan,Office Supplies
+11/2012,183.41,New Brunswick,Office Supplies
+11/2012,78.09,New Brunswick,Office Supplies
+11/2012,42.77,New Brunswick,Office Supplies
+11/2012,259.43,Yukon,Office Supplies
+11/2012,46.37,Yukon,Office Supplies
+11/2012,103.03,Yukon,Office Supplies
+11/2012,1736.41,Yukon,Furniture
+11/2012,2421.02,Yukon,Technology
+11/2012,7235.83,Yukon,Technology
+11/2012,1351.78,Yukon,Office Supplies
+11/2012,1560.96,Yukon,Technology
+11/2012,6733.52,Yukon,Technology
+11/2012,1770.7,British Columbia,Furniture
+11/2012,628.33,British Columbia,Office Supplies
+11/2012,2218.891,British Columbia,Technology
+11/2012,200.41,British Columbia,Office Supplies
+11/2012,1954.796,Alberta,Technology
+11/2012,1103.73,Alberta,Furniture
+11/2012,356.28,Alberta,Office Supplies
+11/2012,109.52,Alberta,Office Supplies
+11/2012,692.15,Alberta,Office Supplies
+11/2012,18.91,Alberta,Office Supplies
+11/2012,685.7,Alberta,Furniture
+11/2012,1024.165,Alberta,Technology
+11/2012,4475,Alberta,Furniture
+11/2012,168.2,Alberta,Office Supplies
+11/2012,212.91,Alberta,Office Supplies
+11/2012,1275.61,Alberta,Office Supplies
+11/2012,5972.59,Alberta,Technology
+11/2012,158.7,Alberta,Office Supplies
+11/2012,6785.86,Alberta,Furniture
+11/2012,1272.35,Alberta,Technology
+11/2012,4000.35,Alberta,Furniture
+11/2012,3356.92,Alberta,Technology
+11/2012,323.96,Alberta,Furniture
+11/2012,175.8565,Alberta,Technology
+12/2012,281.84,Northwest Territories,Office Supplies
+12/2012,509.52,Northwest Territories,Technology
+12/2012,97.02,Northwest Territories,Technology
+12/2012,1689.97,Prince Edward Island,Office Supplies
+12/2012,531.063,British Columbia,Technology
+12/2012,152.84,British Columbia,Furniture
+12/2012,154.45,British Columbia,Office Supplies
+12/2012,176.1,British Columbia,Office Supplies
+12/2012,919,British Columbia,Furniture
+12/2012,228.01,British Columbia,Office Supplies
+12/2012,16002.29,British Columbia,Office Supplies
+12/2012,182.26,British Columbia,Office Supplies
+12/2012,4852.05,British Columbia,Furniture
+12/2012,173.11,Nova Scotia,Office Supplies
+12/2012,86.68,Nova Scotia,Office Supplies
+12/2012,833.51,Nova Scotia,Office Supplies
+12/2012,265.88,British Columbia,Office Supplies
+12/2012,1500.82,British Columbia,Technology
+12/2012,3093.864,British Columbia,Technology
+12/2012,638.91,British Columbia,Office Supplies
+12/2012,10006.28,Manitoba,Furniture
+12/2012,407.17,Manitoba,Office Supplies
+12/2012,4165.04,Ontario,Furniture
+12/2012,464.59,Ontario,Office Supplies
+12/2012,316.68,Ontario,Office Supplies
+12/2012,172.9,Ontario,Office Supplies
+12/2012,517.93,Ontario,Office Supplies
+12/2012,117.97,Ontario,Office Supplies
+12/2012,66.19,Ontario,Office Supplies
+12/2012,279.327,Ontario,Technology
+12/2012,539.206,Ontario,Technology
+12/2012,257.46,Ontario,Office Supplies
+12/2012,1772.2245,Ontario,Technology
+12/2012,1673.53,Ontario,Technology
+12/2012,7110.24,Ontario,Furniture
+12/2012,16.91,Ontario,Office Supplies
+12/2012,464.66,Ontario,Furniture
+12/2012,1390.17,Ontario,Office Supplies
+12/2012,505.2,Ontario,Office Supplies
+12/2012,562.91,Ontario,Furniture
+12/2012,759.94,Ontario,Furniture
+12/2012,114.83,Ontario,Technology
+12/2012,16743.76,Ontario,Technology
+12/2012,144.03,Ontario,Office Supplies
+12/2012,1043.12,Newfoundland,Technology
+12/2012,177.95,Nova Scotia,Office Supplies
+12/2012,2011.46,Nova Scotia,Furniture
+12/2012,285.91,Nova Scotia,Furniture
+12/2012,2611.8035,Nova Scotia,Technology
+12/2012,4408.27,Nova Scotia,Furniture
+12/2012,4547.9,Nova Scotia,Furniture
+12/2012,95.68,Nova Scotia,Office Supplies
+12/2012,1100.21,Quebec,Technology
+12/2012,19.81,Quebec,Office Supplies
+12/2012,1008.872,Quebec,Furniture
+12/2012,99.53,Quebec,Office Supplies
+12/2012,587.2,Quebec,Technology
+12/2012,110.79,Quebec,Office Supplies
+12/2012,1837.94,Quebec,Furniture
+12/2012,24391.16,Quebec,Furniture
+12/2012,3731.59,Quebec,Furniture
+12/2012,33367.85,Quebec,Technology
+12/2012,1299.91,Quebec,Office Supplies
+12/2012,912.35,Quebec,Furniture
+12/2012,15337.58,Quebec,Office Supplies
+12/2012,3883.4715,Quebec,Technology
+12/2012,12690.33,Quebec,Office Supplies
+12/2012,1537.5,Quebec,Office Supplies
+12/2012,181.8,Quebec,Office Supplies
+12/2012,120.98,Ontario,Office Supplies
+12/2012,1082.66,Ontario,Furniture
+12/2012,233.01,Ontario,Office Supplies
+12/2012,225.72,Ontario,Office Supplies
+12/2012,17560.95,Ontario,Furniture
+12/2012,19845.696,Ontario,Furniture
+12/2012,28.04,Ontario,Office Supplies
+12/2012,533.47,Ontario,Office Supplies
+12/2012,61.94,Ontario,Office Supplies
+12/2012,102.9,Manitoba,Furniture
+12/2012,51.03,Manitoba,Office Supplies
+12/2012,204.21,Manitoba,Office Supplies
+12/2012,3534.56,Manitoba,Office Supplies
+12/2012,155.27,Manitoba,Office Supplies
+12/2012,92.53,Manitoba,Office Supplies
+12/2012,988.6435,Manitoba,Technology
+12/2012,423.95,Manitoba,Technology
+12/2012,303.97,Manitoba,Office Supplies
+12/2012,14.15,Manitoba,Office Supplies
+12/2012,18316.3,Saskachewan,Technology
+12/2012,1184.11,Saskachewan,Office Supplies
+12/2012,514.22,Saskachewan,Office Supplies
+12/2012,476.31,Saskachewan,Technology
+12/2012,6095.14,Saskachewan,Technology
+12/2012,3776.28,Saskachewan,Technology
+12/2012,1487.8995,Saskachewan,Technology
+12/2012,57.35,Saskachewan,Technology
+12/2012,371.45,Saskachewan,Office Supplies
+12/2012,672.93,Saskachewan,Technology
+12/2012,803.33,Saskachewan,Office Supplies
+12/2012,554.21,Saskachewan,Technology
+12/2012,1936.45,Saskachewan,Technology
+12/2012,3711.04,Saskachewan,Furniture
+12/2012,303.69,Saskachewan,Office Supplies
+12/2012,560.03,Saskachewan,Office Supplies
+12/2012,14.74,Saskachewan,Office Supplies
+12/2012,117.68,Saskachewan,Office Supplies
+12/2012,259.52,New Brunswick,Office Supplies
+12/2012,580.96,New Brunswick,Furniture
+12/2012,1087.58,New Brunswick,Furniture
+12/2012,4273.35,New Brunswick,Office Supplies
+12/2012,304.26,Yukon,Office Supplies
+12/2012,2116.7,Yukon,Office Supplies
+12/2012,135.928,Yukon,Furniture
+12/2012,114.86,Yukon,Office Supplies
+12/2012,16.97,Yukon,Furniture
+12/2012,4077.756,Yukon,Technology
+12/2012,6878.55,Yukon,Furniture
+12/2012,238.76,Yukon,Office Supplies
+12/2012,104.7,Yukon,Office Supplies
+12/2012,284.4525,Yukon,Technology
+12/2012,163.41,Yukon,Office Supplies
+12/2012,45.21,Yukon,Office Supplies
+12/2012,71.22,British Columbia,Office Supplies
+12/2012,255.7,British Columbia,Office Supplies
+12/2012,391.12,British Columbia,Furniture
+12/2012,448.1,British Columbia,Office Supplies
+12/2012,262.13,British Columbia,Office Supplies
+12/2012,173.12,British Columbia,Office Supplies
+12/2012,44.45,British Columbia,Office Supplies
+12/2012,715.8,British Columbia,Furniture
+12/2012,10941.23,British Columbia,Furniture
+12/2012,1234.36,British Columbia,Office Supplies
+12/2012,2312.96,Alberta,Technology
+12/2012,538.27,Alberta,Office Supplies
+12/2012,3665.41,Alberta,Office Supplies
+12/2012,20.95,Alberta,Office Supplies
+12/2012,135.77,Alberta,Office Supplies
+12/2012,447.25,Alberta,Office Supplies
+12/2012,1424.95,Alberta,Furniture
+12/2012,321.5,Alberta,Office Supplies
+12/2012,178.7,Alberta,Office Supplies
+12/2012,128.12,Alberta,Office Supplies
+12/2012,165.62,Alberta,Furniture
+12/2012,214.23,Alberta,Furniture
+12/2012,214.19,Alberta,Office Supplies
+12/2012,95.71,Alberta,Office Supplies
+12/2012,157.03,Alberta,Furniture
+12/2012,1071.77,Alberta,Furniture
+12/2012,8635.61,Alberta,Technology
+12/2012,63.96,Alberta,Technology
+12/2012,833,Alberta,Office Supplies
+12/2012,277.58,Alberta,Office Supplies
+12/2012,4887.14,Alberta,Furniture
+12/2012,7195.2585,Alberta,Technology
+12/2012,210.06,Alberta,Office Supplies
+12/2012,1558.9425,Alberta,Technology

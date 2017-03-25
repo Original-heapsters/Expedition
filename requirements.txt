@@ -1,8 +1,7 @@
 appdirs==1.4.3
-cachetools==2.0.0
 click==6.7
-descarteslabs==0.1.0
 Flask==0.12
+havenondemand==2.0.1.post0
 itsdangerous==0.24
 Jinja2==2.9.5
 MarkupSafe==1.0
