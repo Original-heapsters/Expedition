@@ -1,5 +1,5 @@
 import os
-from flask import Flask, render_template
+from flask import Flask, render_template, request
 
 
 app = Flask(__name__)
@@ -8,9 +8,20 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/workarea1')
+@app.route('/workarea1', methods=['GET','POST'])
 def workarea1():
-    return render_template('workarea1.html')
+    if request.method == 'POST':
+        print 'entering processing'
+        print request.form['firstname']
+        print request.form['lastname']
+        args = []
+        args.append(request.form['firstname'])
+        args.append(request.form['lastname'])
+        for arg in args:
+            print arg
+        return render_template('workarea1.html', args=args)
+    else:
+        return render_template('workarea1.html')
 
 @app.route('/imageproc')
 def imageproc():
